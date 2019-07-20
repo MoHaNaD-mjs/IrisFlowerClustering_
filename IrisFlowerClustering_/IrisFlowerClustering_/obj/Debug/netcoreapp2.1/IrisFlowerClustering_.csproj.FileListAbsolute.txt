@@ -1,0 +1,12 @@
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\IrisFlowerClustering_.deps.json
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\IrisFlowerClustering_.runtimeconfig.json
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\IrisFlowerClustering_.runtimeconfig.dev.json
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\IrisFlowerClustering_.dll
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.csproj.CoreCompileInputs.cache
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.AssemblyInfoInputs.cache
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.AssemblyInfo.cs
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\Data\iris.data
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\bin\Debug\netcoreapp2.1\IrisFlowerClustering_.pdb
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.dll
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.pdb
+C:\Users\s1a\source\repos\IrisFlowerClustering_\IrisFlowerClustering_\obj\Debug\netcoreapp2.1\IrisFlowerClustering_.csprojAssemblyReference.cache
